@@ -3,7 +3,7 @@ import turtle
 turtle.Screen().bgcolor("green")
 
 t = turtle.Turtle()
-t.pensize(10)
+t.pensize(5)
 
 def go(x,y):
     t.penup()
